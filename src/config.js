@@ -7,7 +7,7 @@ export function getConfig() {
   // with the audience.
 
   return {
-    domain: 'frantz.auth0.com',
+    domain: 'techgc.us.auth0.com',
     clientId: 'E7jTeegYOXbENdF29JCRNPSPXiP9FHw1',
   };
 }
