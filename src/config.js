@@ -8,6 +8,6 @@ export function getConfig() {
 
   return {
     domain: 'frantz.auth0.com',
-    clientId: '8WvHD7xLgPgjZIrIvUIRfah4brm7hVZW',
+    clientId: 'E7jTeegYOXbENdF29JCRNPSPXiP9FHw1',
   };
 }
